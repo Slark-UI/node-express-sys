@@ -9,3 +9,4 @@ var start =  () => (state = 'start');
 
 start();
 ```
+> test
