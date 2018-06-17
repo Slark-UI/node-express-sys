@@ -1,9 +1,10 @@
-# node-express-sys
-qqq1231232
-> ces==cesces
-12
-```
-var a = a1；
+# node-express-system
 
-var stop => (a = stop);
+
+
+```
+var state = 'stop'；
+
+var stop => (state = 'stop');
+var start => (state = 'start');
 ```
